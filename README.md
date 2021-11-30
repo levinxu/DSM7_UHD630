@@ -15,7 +15,9 @@ Because there is only modded i915 driver for DSM 6.2.3, I made an i915.ko file f
 Backup and replace suitable i915.ko to /usr/lib/modules/i915.ko.
 
 3E98 => iGPU UHD 630, High End Desktop 9 Series (i5-9400, i5-9600k, i7-9700t, i7-9700)
+
 9BC8 => iGPU UHD 630, Low End Desktop i5-10500, i5-10600T and lower
+
 9BC5 => iGPU UHD 630, High End Desktop i5-10600K and higher
 
 
